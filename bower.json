@@ -1,0 +1,25 @@
+{
+  "name": "Polymer",
+  "version": "0.0.0",
+  "authors": [
+    "Adrian Boisclair <adrianboisclair@gmail.com>"
+  ],
+  "description": "Polymer web components by Adrian",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "web",
+    "components",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
